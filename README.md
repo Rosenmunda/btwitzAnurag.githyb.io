@@ -1,2 +1,2 @@
-# btwitzAnurag.githyb.io
+# btwitzAnurag.github.io
 portfolio website
